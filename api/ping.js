@@ -3,8 +3,8 @@ export const config = {
 };
 
 const urlsToPing = [
-  'https://your-render-backend1.onrender.com',
-  'https://your-render-backend2.onrender.com',
+  'https://driving-school-projects-backend.onrender.com',
+  // 'https://your-render-backend2.onrender.com',
 ];
 
 export default async function handler(req, res) {
