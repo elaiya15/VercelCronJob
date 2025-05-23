@@ -3,8 +3,8 @@ export const config = {
 };
 
 const urlsToPing = [
-  'https://driving-school-projects-backend.onrender.com',
-  // 'https://your-render-backend2.onrender.com',
+  'https://vercel.com/elaiyacts-projects/driving-school-projects-back-end',
+  'https://driving-school-projects-backend.onrender.com'
 ];
 
 export default async function handler(req, res) {
